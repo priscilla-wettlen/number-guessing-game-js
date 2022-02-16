@@ -1,0 +1,8 @@
+1.The program will generate a random number between 0 and 10 
+2. Prompt the user to enter a number between 0 and 10
+3a. If the number they enter is smaller than the randomly generated number, another prompt will ask
+for a larger number by saying "Bigger!"
+3b. If the number they enter is larger than the randomly generated number, another prompt will ask
+for a smaller number by saying "Smaller!"
+4.If the value entered by the user matches the randomly generated number, an alert will appear
+saying "Correct!" and the game is over.
